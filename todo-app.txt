@@ -1,0 +1,8 @@
+src
+├── components
+│   ├── Auth.js         # Sign-up and sign-in forms
+│   ├── TodoForm.js     # Form for adding todos
+│   └── TodoList.js     # List of todos with delete and update options
+├── firebase.js         # Firebase configuration and initialization
+├── App.js              # Main app component
+└── index.js            # Entry point of the app
